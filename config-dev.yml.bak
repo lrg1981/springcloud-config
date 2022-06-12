@@ -1,7 +1,9 @@
 server:
   port: 9999
+
 config:
   info: aaaaaaaaaaaa
+
 eureka:
   client:
     register-with-eureka: false
