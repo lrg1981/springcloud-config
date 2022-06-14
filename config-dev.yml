@@ -1,14 +1,4 @@
 config:
-  info: aaaaaaaaaaaa
-server:
-  port: 9999
-eureka:
-  client:
-    register-with-eureka: false
-    service-url:
-      defaultZone: http://eureka7001.com:7001/eureka/
-
-feign:
-  hystrix:
-    enabled: true
+  info: "master version=1"
+ 
 
